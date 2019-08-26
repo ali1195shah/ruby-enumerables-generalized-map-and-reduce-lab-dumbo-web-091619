@@ -1,4 +1,3 @@
-# Your Code Here
 def map(array)
   new_arr = []
   i = 0
