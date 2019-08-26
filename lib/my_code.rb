@@ -10,13 +10,13 @@ end
 
 def reduce(array, start=nil)
   if start != nil
-    num1 + start
+    sum + start
     i = 0
   else
-    num1 = array[0]
+    sum = array[0]
     i = 1
   end
   while i < array.length
-    yield(num1, array[i])
+    yield(sum, array[i])
   end
 end
