@@ -6,4 +6,5 @@ def map(source_array)
     new_arr.push(yeild(source_array[i]))
     i += 1
   end
+  return new_arr
 end
