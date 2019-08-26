@@ -1,5 +1,4 @@
 def map(array)
-  
   new_arr = []
   i = 0
   while i < array.length
