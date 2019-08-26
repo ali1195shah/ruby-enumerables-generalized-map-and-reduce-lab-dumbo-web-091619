@@ -10,6 +10,6 @@ end
 
 def reduce(array, start=nil)
   if start != nil
-    
+    num1 + start
   end
 end
