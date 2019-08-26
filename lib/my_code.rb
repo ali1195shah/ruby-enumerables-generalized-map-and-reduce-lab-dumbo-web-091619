@@ -11,5 +11,6 @@ end
 def reduce(array, start=nil)
   if start != nil
     num1 + start
+    i = 0
   end
 end
